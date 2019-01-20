@@ -1,3 +1,3 @@
 # Simple-Testbad-Python
 
-MQTT Pythen testcode
+MQTT Python testcode
